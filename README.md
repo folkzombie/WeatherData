@@ -1,6 +1,10 @@
 Weather Data README
 
-Get weather information from http://www.weather.unisys.com
+Get weather information from http://www.weather.unisys.com.
+
+This class return current weather information, daycast information, and forecast information (forecast info includes a more detailed description). It also returns radar imagery and weather icons for the current, forecast and daycast info. 
+
+There are 3 example icon sets provided. 
 
 Usage:
 
